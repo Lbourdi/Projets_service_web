@@ -28,8 +28,7 @@ Assurez-vous d'avoir les outils suivants installés sur votre machine :
 ### Configuration
 1. Clonez ce répertoire sur votre machine locale :
    ```bash
-   git clone <URL_DU_REPO>
-   cd <NOM_DU_REPO>
+   git clone https://github.com/Lbourdi/Projets_service_web
    ```
 
 2. Configurez le fichier `config.json` pour la base de données dans le dossier `./backend/config` :
